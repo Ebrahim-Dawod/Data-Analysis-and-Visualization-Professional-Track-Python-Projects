@@ -4,7 +4,7 @@
 
 ## Project 1: Data Analysis of U.S. Bike Share Riders Dataset Using Python Scripting
 
-for the Project Code main.Py [Click Here](./Data%20Analysis%20Project.1.%20U.S.%20Bike%20Share%20Riders%20Data%20Analysis%20Using%20Python%20Scripting/US%20Bike%20Share%20V.2_2nd%20Try/bikeshare%20version2.py)
+for the Project Code main.Py [Click Here](./Data%20Analysis%20Project.1.%20U.S.%20Bike%20Share%20Riders%20Data%20Analysis%20Using%20Python%20Scripting/US%20Bike%20Share%20V.2_2nd%20Try/bikeshare_version2.py)
 
 ## Project 2: Invistigate Patients No-Show Reasons Using Python Scripting & Jupiter Notebook
 
@@ -17,7 +17,7 @@ for the Project Code main.Py [Click Here](./Data%20Analysis%20Project.2.%20Invis
 
 ### The Moment of Acheiving the Goal (After 4 Months of the Course) :
 
-![The Moment of Acheiving the Goal](./The_Amusing_Moment.png)
+![The Moment of Achieving the Goal](./The_Amusing_Moment.png)
 
 
 ### Confirm the Certificate authenticity :

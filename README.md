@@ -1,6 +1,6 @@
 # Data Analysis and Visualization Professional Python Projects
  Projects of Data Analysis & Visualization Course (Professional Track) Held by Udacity
- Using Python Scripting & Jupiter Notebook.
+ Using Python Scripting & Jupyter Notebook.
 
 ## Project 1: Data Analysis of U.S. Bike Share Riders Dataset Using Python Scripting
 
